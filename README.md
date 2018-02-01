@@ -25,4 +25,4 @@ RQ4. Would splitting up the class improve the overall design?
 
 Click here to download the Reference List of God Class. <a href="https://github.com/labsoft-ufmg/techdebt-2018/raw/master/Data/Oracle.pdf" download="Download"><img src="https://cdn2.iconfinder.com/data/icons/snipicons/5000/download-alt-48.png" /></a>
 
-Click here to see the raw data, which contains metrics of each software domains used in this study. <a href="https://github.com/labsoft-ufmg/techdebt-2018/tree/master/Data/Metrics" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/snipicons/5000/download-alt-48.png" /></a>
+Click here to see the raw data, which contains metrics of each software domains. <a href="https://github.com/labsoft-ufmg/techdebt-2018/tree/master/Data/Metrics" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/snipicons/5000/download-alt-48.png" /></a>
